@@ -25,7 +25,7 @@ The project uses The Oxford-IIIT Pet Dataset, which contains images of 37 pet br
 
 ### How to use:
 1. Download data from: https://www.kaggle.com/datasets/devdgohil/the-oxfordiiit-pet-dataset/data
-2. ```git clone ```
-3. ```cd ```
+2. ```git clone https://github.com/daniel-turpakov/segmentation_oxford_pets.git```
+3. ```cd segmentation_oxford_pets```
 4. ```pip3 install -r requirements.txt```
 5. ```python3 train.py```
