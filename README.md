@@ -29,3 +29,9 @@ The project uses The Oxford-IIIT Pet Dataset, which contains images of 37 pet br
 3. ```cd segmentation_oxford_pets```
 4. ```pip3 install -r requirements.txt```
 5. ```python3 train.py```
+
+### Example segmentation:
+<div style="display: flex; justify-content: space-between;">
+  <img src="examples/src_example.jpg" alt="Original image" width="48%" />
+  <img src="examples/result_example.png" alt="Result" width="48%" />
+</div>
